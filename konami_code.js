@@ -20,4 +20,4 @@ let index = 0;
     }
   });
 }
-init()
+  init();
